@@ -1,0 +1,3 @@
+This is my resume that is built using latex. You gotta have latex installed.
+
+Uplodaing to github so I don't lose track of this one...
